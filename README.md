@@ -13,7 +13,7 @@ Lokal im Browser sowie mit und ohne Unterstützung durch KI
 | 💬 **EAM-AI-QEA-Analyzer** | Architekturmodelle per natürlicher Sprache befragen — lokal, in Open-WebUI oder per MCP | — | [Repository](https://github.com/Mitchel85/EAM-AI-QEA-Analyzer) |
 | 📝 **EAM-AI-ADMBw-Extractor** | Extrahiert Stereotype, Beziehungen und Viewpoints aus Architektur-Prosa — konform zu ADMBw/NAFv4 (MDG 2026.05) | — | [Repository](https://github.com/Mitchel85/EAM-AI-ADMBw-Extractor) |
 | 📦 **EAM-AI-ADMBw-Batch** | Prosa → ADMBw-konforme JSON-Batches (Knoten & Kanten) für ArAMIS WEB / Neo4j | — | [Repository](https://github.com/Mitchel85/EAM-AI-ADMBw-Batch) |
-| ⚙️ **EAM-AI-ADMBw-Script-Maker** | Generiert und verifiziert EA-JavaScript-Skripte für das Bundeswehr-Profil — idempotent, mit Re-Read-Prüfung | — | [Repository](https://github.com/Mitchel85/EAM-AI-ADMBw-Script-Maker) |
+| ⚙️ **EAM-AI-ADMBw-Script-Maker** | Generiert und verifiziert EA-JavaScript-Skripte für das Bundeswehr-Profil — idempotent, mit Re-Read-Prüfung; als Hermes-Skill nutzbar | — | [Repository](https://github.com/Mitchel85/EAM-AI-ADMBw-Script-Maker) |
 | 🔧 **EAM-ADMBw-MDG-Parser** | Extrahiert die Regeln aus der offiziellen ADMBw-MDG — hält die Wissensbasis aller KI-Tools bei jedem Update aktuell | [mitchel85.github.io/EAM-ADMBw-MDG-Parser](https://mitchel85.github.io/EAM-ADMBw-MDG-Parser/) | [Repository](https://github.com/Mitchel85/EAM-ADMBw-MDG-Parser) |
 
 ---
