@@ -17,10 +17,10 @@
 | 📝 **EAM-AI-ADMBw-Extractor** | Extrahiert Stereotype, Beziehungen und Viewpoints aus Architektur-Prosa — konform zu ADMBw v2025.10 | — | [Repository](https://github.com/Mitchel85/EAM-AI-ADMBw-Extractor) |
 | 📦 **EAM-AI-ADMBw-Batch** | Prosa → ADMBw-konforme JSON-Batches (Knoten & Kanten) für ArAMIS WEB / Neo4j | — | [Repository](https://github.com/Mitchel85/EAM-AI-ADMBw-Batch) |
 | ⚙️ **EAM-AI-ADMBw-Script-Maker** | Generiert und verifiziert EA-JavaScript-Skripte für das Bundeswehr-Profil — idempotent, mit Re-Read-Prüfung | — | [Repository](https://github.com/Mitchel85/EAM-AI-ADMBw-Script-Maker) |
-| 🔧 **EAM-ADMBw-MDG-Parser** | Extrahiert die Regeln aus der offiziellen ADMBw-MDG — hält die Wissensbasis aller KI-Tools bei jedem Update aktuell | — | [Repository](https://github.com/Mitchel85/EAM-ADMBw-MDG-Parser) |
+| 🔧 **EAM-ADMBw-MDG-Parser** | Extrahiert die Regeln aus der offiziellen ADMBw-MDG — hält die Wissensbasis aller KI-Tools bei jedem Update aktuell | [mitchel85.github.io/EAM-ADMBw-MDG-Parser](https://mitchel85.github.io/EAM-ADMBw-MDG-Parser/) | [Repository](https://github.com/Mitchel85/EAM-ADMBw-MDG-Parser) |
 
 ---
 
-**Grundlage:** offizielle ADMBw-MDG der Bundeswehr — 642 Stereotype · 203 Topologie-Regeln · 53 NAFv4-Viewpoints.
+**Grundlage:** offizielle ADMBw-MDG der Bundeswehr — 443 eindeutige Stereotype · 203 Topologie-Regeln · 53 NAFv4-Viewpoints.
 
 Interesse an der **KI-Edition (EAM-AI Suite)**? Einfach melden.
