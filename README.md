@@ -1,9 +1,6 @@
 # Enterprise Architekturmagement & ADMBw
 
 [![CI](https://github.com/Mitchel85/EAM-Suite/actions/workflows/ci.yml/badge.svg)](https://github.com/Mitchel85/EAM-Suite/actions/workflows/ci.yml)
-
-**EAM-Toolfamilie:**
-
 <p align="center">
   <img src="assets/toolfamilie-uebersicht.png" alt="EAM-Toolfamilie Übersicht" width="680">
 </p>
