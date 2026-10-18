@@ -18,6 +18,4 @@ Lokal im Browser sowie mit und ohne Unterstützung durch KI
 
 ---
 
-**Grundlage:** offizielle ADMBw-MDG der Bundeswehr — 443 eindeutige Stereotype · 203 Topologie-Regeln · 53 NAFv4-Viewpoints.
-
 Interesse an der **KI-Edition (EAM-AI Suite)**? Einfach melden.
