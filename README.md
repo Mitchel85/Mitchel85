@@ -1,4 +1,4 @@
-# Michael Estel — Enterprise Architecture Management & ADMBw
+# Enterprise Architekturmagement & ADMBw
 
 [![CI](https://github.com/Mitchel85/EAM-Suite/actions/workflows/ci.yml/badge.svg)](https://github.com/Mitchel85/EAM-Suite/actions/workflows/ci.yml)
 
