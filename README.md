@@ -1,5 +1,5 @@
-# Enterprise Architekturmagement & ADMBw
-
+# Enterprise Architekturmanagement & ADMBw
+Lokal im Browser sowie mit und ohne Unterstützung durch KI
 [![CI](https://github.com/Mitchel85/EAM-Suite/actions/workflows/ci.yml/badge.svg)](https://github.com/Mitchel85/EAM-Suite/actions/workflows/ci.yml)
 <p align="center">
   <img src="assets/toolfamilie-uebersicht.png" alt="EAM-Toolfamilie Übersicht" width="680">
