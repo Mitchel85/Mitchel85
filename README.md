@@ -2,7 +2,7 @@
 
 [![CI](https://github.com/Mitchel85/EAM-Suite/actions/workflows/ci.yml/badge.svg)](https://github.com/Mitchel85/EAM-Suite/actions/workflows/ci.yml)
 
-**EAM-Toolfamilie:** acht Werkzeuge für Sparx Enterprise Architect — vom Browser-Editor über die natürliche Sprache bis zur ADMBw/NAFv4-konformen Modellgenerierung. 100 % lokal, keine Datenübertragung.
+**EAM-Toolfamilie:**
 
 <p align="center">
   <img src="assets/toolfamilie-uebersicht.png" alt="EAM-Toolfamilie Übersicht" width="680">
