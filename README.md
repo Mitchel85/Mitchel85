@@ -2,7 +2,9 @@
 Lokal im Browser sowie mit und ohne Unterstützung durch KI
 [![CI](https://github.com/Mitchel85/EAM-Suite/actions/workflows/ci.yml/badge.svg)](https://github.com/Mitchel85/EAM-Suite/actions/workflows/ci.yml)
 <p align="center">
-  <img src="assets/toolfamilie-uebersicht.png" alt="EAM-Toolfamilie Übersicht" width="680">
+  <a href="https://raw.githubusercontent.com/Mitchel85/Mitchel85/main/assets/toolfamilie-uebersicht.png" title="Übersichtsbild in voller Auflösung öffnen">
+    <img src="assets/toolfamilie-uebersicht.png" alt="Übersicht der acht EAM-Tools: EAM Suite, EAM-AI Suite, EAM-QEA-Analyzer, EAM-AI-QEA-Analyzer, EAM-AI-ADMBw-Extractor, EAM-AI-ADMBw-Batch, EAM-AI-ADMBw-Script-Maker und EAM-ADMBw-MDG-Parser – Werkzeuge für Enterprise Architekturmanagement mit ADMBw/NAFv4, lokal im Browser sowie mit KI-Unterstützung" width="900">
+  </a>
 </p>
 
 | Tool | Was es kann | Online ausprobieren | GitHub |
