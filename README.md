@@ -1,5 +1,4 @@
 # Enterprise Architekturmanagement & ADMBw
-Lokal im Browser sowie mit und ohne Unterstützung durch KI
 [![CI](https://github.com/Mitchel85/EAM-Suite/actions/workflows/ci.yml/badge.svg)](https://github.com/Mitchel85/EAM-Suite/actions/workflows/ci.yml)
 <p align="center">
   <a href="https://raw.githubusercontent.com/Mitchel85/Mitchel85/main/assets/toolfamilie-uebersicht.png" title="Übersichtsbild in voller Auflösung öffnen">
