@@ -1,8 +1,8 @@
 # Enterprise Architekturmanagement & ADMBw
 [![CI](https://github.com/Mitchel85/EAM-Suite/actions/workflows/ci.yml/badge.svg)](https://github.com/Mitchel85/EAM-Suite/actions/workflows/ci.yml)
 <p align="center">
-  <a href="https://raw.githubusercontent.com/Mitchel85/Mitchel85/main/assets/toolfamilie-uebersicht.png" title="Übersichtsbild in voller Auflösung öffnen">
-    <img src="assets/toolfamilie-uebersicht.png" alt="Übersicht der EAM-Toolfamilie in drei Gruppen: Basis (1 EAM-ADMBw-MDG-Parser, 2 EAM-QEA-Analyzer), KI-Werkzeuge (3 EAM-AI-QEA-Analyzer, 4 EAM-AI-ADMBw-Extractor, 5 EAM-AI-ADMBw-Batch, 6 EAM-AI-ADMBw-Script-Maker) und Suiten (7 EAM Suite, 8 EAM AI Suite, 9 EAM AI Suite Python; die beiden KI-Suiten nur auf Anfrage)." width="900">
+  <a href="https://raw.githubusercontent.com/Mitchel85/Mitchel85/main/assets/toolfamilie-uebersicht-2026-10.png" title="Übersichtsbild in voller Auflösung öffnen">
+    <img src="assets/toolfamilie-uebersicht-2026-10.png" alt="Übersicht der EAM-Toolfamilie in drei Gruppen: Basis (1 EAM-ADMBw-MDG-Parser, 2 EAM-QEA-Analyzer), KI-Werkzeuge (3 EAM-AI-QEA-Analyzer, 4 EAM-AI-ADMBw-Extractor, 5 EAM-AI-ADMBw-Batch, 6 EAM-AI-ADMBw-Script-Maker) und Suiten (7 EAM Suite, 8 EAM AI Suite, 9 EAM AI Suite Python; die beiden KI-Suiten nur auf Anfrage)." width="900">
   </a>
 </p>
 
