@@ -1,6 +1,9 @@
 # Michael Estel
 
-Enterprise-Architekturmanagement und KI-gestützte Werkzeuge.
+Softwareentwicklung für Daten- und Architekturmodelle.
+
+Ich baue Werkzeuge, die Dokumente einlesen, prüfen und in strukturierte Modelle
+überführen — als Browser-Anwendung und als Kommandozeilen-Werkzeug.
 
 ## EAM Toolfamilie
 
